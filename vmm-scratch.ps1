@@ -1,0 +1,1 @@
+﻿Connect-VIServer -Server vcevc01.vce.asc -User 'vce\d
